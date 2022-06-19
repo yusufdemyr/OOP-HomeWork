@@ -1,0 +1,6 @@
+C:\Users\islam\Desktop\Nesne ödevi\Ödev\Ödev\obj\Debug\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\islam\Desktop\Nesne ödevi\ödev\Ödev\obj\Debug\Ödev.csprojAssemblyReference.cache
+C:\Users\islam\Desktop\Nesne ödevi\ödev\Ödev\bin\Debug\Ödev.exe
+C:\Users\islam\Desktop\Nesne ödevi\ödev\Ödev\bin\Debug\Ödev.pdb
+C:\Users\islam\Desktop\Nesne ödevi\ödev\Ödev\obj\Debug\Ödev.exe
+C:\Users\islam\Desktop\Nesne ödevi\ödev\Ödev\obj\Debug\Ödev.pdb

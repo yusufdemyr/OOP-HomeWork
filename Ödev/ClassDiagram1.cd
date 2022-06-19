@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ödev.Cakal">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cakal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ödev.DeveKusu">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeveKusu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ödev.Hayvan">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAACAAAACQAAAAgAAAACAAAAAAAAAAAQ=</HashCode>
+      <FileName>Hayvan.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ödev.MekanikFil">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MekanikFil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ödev.Pist">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAABACAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAgA=</HashCode>
+      <FileName>Pist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ödev.Robot">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAACAAAACQAAAAgAAAACAIAAAAAAAAAQ=</HashCode>
+      <FileName>Robot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ödev.SalyanBot">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SalyanBot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ödev.Yarisma">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAU=</HashCode>
+      <FileName>Yarisma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ödev.YarismaTest">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>YarismaTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Ödev.IYarismaci">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAQAAAAgAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>IYarismaci.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
